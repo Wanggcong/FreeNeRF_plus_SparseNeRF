@@ -22,7 +22,7 @@ SparseNeRF could be easily intergrated into other few-shot NeRF. We implement Fr
 
 ## Citation
 
-If you find these work useful, please cite the papers as
+If you find these works useful, please cite the papers as
 
 
 ```

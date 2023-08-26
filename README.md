@@ -9,7 +9,7 @@ SparseNeRF could be easily intergrated into other few-shot NeRF. We implement Fr
 
 ## About FreeNeRF and SparseNeRF
 
-- **TL;DR:** We use frequency regularization and occlusion regularization to improve few-shot neural rendering. Both techniques can be implemented with a few lines of code.
+- **TL;DR:** FreeNeRF uses frequency regularization and occlusion regularization to improve few-shot neural rendering. Both techniques can be implemented with a few lines of code.
 
 - **TL;DR:** We present SparseNeRF, a simple yet effective method that synthesizes novel views given a few images. SparseNeRF distills robust local depth ranking priors from real-world inaccurate depth observations, such as pre-trained monocular depth estimation models or consumer-level depth sensors.
 

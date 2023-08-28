@@ -7,10 +7,12 @@ SparseNeRF could be easily intergrated into other few-shot NeRF. We implement Fr
 
 
 
-## About FreeNeRF and SparseNeRF
+## About SparseNeRF and FreeNeRF
+
+- **TL;DR:** We present SparseNeRF, a simple yet effective method that synthesizes novel views given a few images. SparseNeRF distills robust local depth ranking priors from real-world inaccurate depth observations, such as pre-trained monocular depth estimation models or consumer-level depth sensors.
 
 - **TL;DR:** FreeNeRF uses frequency regularization and occlusion regularization to improve few-shot neural rendering. 
-- **TL;DR:** We present SparseNeRF, a simple yet effective method that synthesizes novel views given a few images. SparseNeRF distills robust local depth ranking priors from real-world inaccurate depth observations, such as pre-trained monocular depth estimation models or consumer-level depth sensors.
+
 
 ## Installation (The installation is same to [FreeNeRF](https://github.com/Jiawei-Yang/FreeNeRF) or [SparseNeRF](https://github.com/Wanggcong/SparseNeRF)).
 - You might first test if the code works on FreeNeRF.

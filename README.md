@@ -19,7 +19,8 @@ SparseNeRF could be easily intergrated into other few-shot NeRF. We implement Fr
 - I have tested both FreeNeRF and FreeNeRF+SparseNeRF, it works.
 - Please find the training scripts on train_depth.sh, train_depth2.sh, and train_depth3.sh. If you do not use cluster, just replace "srun xxx" to "CUDA_VISIBLE_DEVICES=X" 
 
-
+## Train and test
+Please use the training script (xxx.sh) for training. The test script is similar to FreeNeRF.
 
 ## Citation
 
